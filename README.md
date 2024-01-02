@@ -40,8 +40,5 @@ This project visualizes the Mandelbrot set using two different programming envir
 - Zoom and pan functionality to explore different parts of the set.
 - Two different implementations: Web-based using p5.js and a desktop application using SDL.
 
-## Credits
-- [Max Isaacs] - PBA Final
-
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE.md file for details.
