@@ -22,7 +22,7 @@ This project visualizes the Mandelbrot set using two different programming envir
 1. Ensure SDL2 is installed on your system. Visit [SDL's official site](https://www.libsdl.org/download-2.0.php) for installation instructions.
 2. Compile the C program with an appropriate compiler for your system. For example, using gcc you might use:
    ```bash
-   gcc mandelbrot.c -o mandelbrot -lSDL2
+   gcc -o mandelbrot man.c `sdl2-config --cflags --libs`
    
 ## Usage 
 
